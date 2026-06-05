@@ -21,6 +21,6 @@ public class Seleintorduction
     	               System.out.println(driver.getTitle());
     	                
     	               driver.get("https://amazon.com");   //By second person
-    	               System.out.println(driver.getUrl());
+    	               System.out.println(driver.getCurrentUrl());
      }
 }
