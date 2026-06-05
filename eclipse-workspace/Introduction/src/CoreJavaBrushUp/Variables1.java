@@ -12,8 +12,12 @@ public class Variables1
 	    
 	      System.out.println(myNum+ " :is the value stored in the myNum variable");
 	      System.out.println(website); 
-	    
-	    
+	    //---------------------------------------------
+	      System.out.println("Develop1"); 
+	      System.out.println("Develop2"); 
+	      System.out.println("Develop3"); 
+	      System.out.println("Develop4"); 
+	      System.out.println("Develop5"); 
 	    
 	}
 }

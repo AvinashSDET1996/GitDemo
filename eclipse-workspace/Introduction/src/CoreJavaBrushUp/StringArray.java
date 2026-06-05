@@ -16,5 +16,12 @@ public class StringArray
 	     {
 	    	   System.out.println(s);
 	     }
+	     //-------------------------------------------
+	     System.out.println("develop");
+	     for(String s1: name1)
+	     {
+	    	   System.out.println(s1);
+	     }
+}
 }
 }
