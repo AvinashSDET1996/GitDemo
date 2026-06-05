@@ -18,6 +18,8 @@ public class Variables1
 	      System.out.println("Develop3"); 
 	      System.out.println("Develop4"); 
 	      System.out.println("Develop5"); 
+	    //------------------------------------------
+	      System.out.println("Develop6");
 	    
 	}
 }
