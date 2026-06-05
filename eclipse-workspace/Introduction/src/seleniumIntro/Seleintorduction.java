@@ -19,5 +19,13 @@ public class Seleintorduction
     	       WebDriver driver= new ChromeDriver();
     	               driver.get("https://google.com");
     	               System.out.println(driver.getTitle());
+    	                
+    	               driver.get("https://amazon.com");   //By second person
+    	               System.out.println(driver.getCurrentUrl());
+    	               System.out.println("TestX1");
+    	               System.out.println("TestX2");
+    	               System.out.println("TestX3");
+    	               System.out.println("TestX4");
+    	               System.out.println("TestX5");
      }
 }
